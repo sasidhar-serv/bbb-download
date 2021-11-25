@@ -1,5 +1,4 @@
 # bbb-download
-### The code will be maintained by createwebinar.com developer team
 
 A python script that produces downloadable material for existing and new recordings for your BigBlueButton server.
 Final MP4 video will include only presentation, audio and screenshare (no chat window, no whiteboard).
